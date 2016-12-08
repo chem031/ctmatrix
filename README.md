@@ -52,4 +52,3 @@ See also the list of [contributors](https://github.com/your/project/contributors
 * [Wesley Colley](http://www.colleyrankings.com/) whose work mine is based on
 * [Kenneth Massey](http://masseyratings.com/index.htm) for aggregating data in a convenient format
 
->>>>>>> Filled out README.md
