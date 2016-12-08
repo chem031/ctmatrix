@@ -1,11 +1,7 @@
-<<<<<<< HEAD
-# ctmatrix
-Repo for the MATLAB code behind the Colley-Thurston Matrix algorithm used to rank sports teams based on strength of schedule and margin of victory.
-=======
 # Colley-Thurston Matrix Rankings (ctmatrix)
 
 Repo for the MATLAB code behind the Colley-Thurston Matrix algorithm used to rank sports teams based on strength of schedule and margin of victory.
-
+=======
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
