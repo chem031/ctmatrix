@@ -3,7 +3,7 @@
 Repo for the MATLAB code behind the [Colley-Thurston Matrix](http://bit.ly/CTRank) algorithm used to rank sports teams based on strength of schedule and margin of victory.
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
@@ -11,8 +11,8 @@ What things you need to install the software and how to install them
 
 ```
 * Software capable of running MATLAB scripts
-** MATLAB, or
-** [Octave](https://www.gnu.org/software/octave/)
+	* MATLAB, or
+	* [Octave](https://www.gnu.org/software/octave/)
 ```
 
 ### Installing
@@ -45,7 +45,7 @@ For the versions available, see the [tags on this repository](https://github.com
 
 * Glen K Thurston
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/chem031/ctmatrix/contributors) who participated in this project.
 
 ## Acknowledgments
 
